@@ -89,6 +89,8 @@ Bayesian_recommendation_system/
 
 Este archivo (`trace_final_movielens.nc`, ~490 MB) almacena todas las muestras posteriores generadas durante la inferencia MCMC con el algoritmo NUTS. Contiene las estimaciones distribuidas de los parámetros latentes, sesgos e hiperparámetros del modelo, permitiendo realizar análisis de convergencia en ArviZ, cálculos de RMSE y recomendaciones personalizadas sin tener que reentrenar el sistema.
 
+Link de descargas -> [https://drive.google.com/file/d/1KS8qpeBfGnUJhlpH6wXJ2QD6Hddh8Asq/view?usp=sharing](https://drive.google.com/file/d/1KS8qpeBfGnUJhlpH6wXJ2QD6Hddh8Asq/view?usp=sharing)
+
 ## Autoría
 
  
